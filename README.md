@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project root directory, first create initial DB migration by running
+In the project root directory, install all dependencies with `npm install`, then create initial DB migration by running
 
 ### `npx prisma migrate dev --name init`
 
